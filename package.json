@@ -1,1 +1,9 @@
-
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "Jenkins CI/CD Demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
